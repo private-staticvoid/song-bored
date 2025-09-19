@@ -47,3 +47,6 @@ def play_lyrics(lyrics, delays):
 if __name__ == "__main__":
     print(f"{YELLOW}Now playing...{RESET}\n")
     play_lyrics(lyrics, delays)
+
+
+#tensionado, timing of the song, lyrics, yellow text, delays, character-by-character display
